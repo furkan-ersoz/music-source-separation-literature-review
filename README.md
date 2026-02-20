@@ -31,7 +31,7 @@ Each paper is analyzed using a structured comparison table including:
 - Detailed structured comparisons currently in progress for selected key papers
 
 ## Purpose:
-- This project serves both as:
+This project serves both as:
 - A structured academic review resource
 - A foundation for future research contributions in Music Source Separation
 
